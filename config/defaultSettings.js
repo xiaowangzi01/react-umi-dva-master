@@ -14,4 +14,5 @@ export default {
   title: 'Ant Design Pro',
   pwa: false,
   iconfontUrl: '',
+  baseUrl: 'http://39.105.164.236:8000',//接口路径
 };
